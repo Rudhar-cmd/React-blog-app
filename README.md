@@ -7,7 +7,7 @@ UI_UX:
       All blogs are saved in localStorage so they persist even after reload.
       Includes inline editing, modern UI, and a card-based layout.
 
-  - preview_image: "https://github.com/user-attachments/assets/your-image-id-here"
+  - preview_image: "<img width="1045" height="678" alt="Screenshot 2025-11-20 at 2 38 10 PM" src="https://github.com/user-attachments/assets/5fcc3d15-f013-41c5-80c1-ddc0da5b360d" />"
 
 # Features
 Features:
@@ -114,4 +114,5 @@ Author:
 
 # Preview
 Preview:
-  - gif: "https://github.com/user-attachments/assets/your-demo-gif-id-here"
+  - gif: ![ScreenRecording2025-11-20at2 43 40PM-ezgif com-speed](https://github.com/user-attachments/assets/4c159b6d-1973-464e-b877-e4b10785403b)
+
