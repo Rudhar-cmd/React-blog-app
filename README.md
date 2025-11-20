@@ -114,5 +114,5 @@ Author:
 
 # Preview
 Preview:
-  - gif: ![ScreenRecording2025-11-20at2 43 40PM-ezgif com-speed](https://github.com/user-attachments/assets/4c159b6d-1973-464e-b877-e4b10785403b)
+  - : ![ScreenRecording2025-11-20at2 43 40PM-ezgif com-speed](https://github.com/user-attachments/assets/4c159b6d-1973-464e-b877-e4b10785403b)
 
