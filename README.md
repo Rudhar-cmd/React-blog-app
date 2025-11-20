@@ -110,7 +110,7 @@ License:
 
 # Author
 Author:
-  - Rudhar
+  - Rudhar Gupta
 
 # Preview
 Preview:
