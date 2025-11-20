@@ -76,7 +76,7 @@ Components:
 
 # Installation
 Installation:
-  - git clone https://github.com/your-username/quick-blog.git
+  - git clone https://github.com/Rudhar-cmd/React-app-blog.git
   - cd quick-blog
   - npm install
   - npm run dev
